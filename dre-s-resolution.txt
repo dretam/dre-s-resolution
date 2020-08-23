@@ -1,7 +1,9 @@
 Dre's Resolution
-1. Menyelesaikan kuliah saya tepat waktu.
-2. Konsisten belajar bahasa pemrograman.
-3. Bergabung dengan komunitas salah satu bahasa pemrograman.
+
+1. Bergabung dengan komunitas salah satu bahasa pemrograman.
+2. Menyelesaikan kuliah saya tepat waktu.
+3. Konsisten belajar bahasa pemrograman.
+4. Belajar struktur data dasar.
 4. Mencari pengalaman bekerja sebagai programmer di perusahaan start up
 5. Lanjut program S2 TI
 6. Bekerja di perusahaan IT besar
