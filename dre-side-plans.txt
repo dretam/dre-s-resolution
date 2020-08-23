@@ -1,4 +1,5 @@
 Dre's Side Plans
 
 1. Learning PHP Frameworks: CI 4 and Laravel
-2. Learning JavaScript Frameworks: React.js
+2. Learning JavaScript Frameworks: React.js and Vue.js
+3. About Machine Learning
