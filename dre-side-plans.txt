@@ -1,0 +1,4 @@
+Dre's Side Plans
+
+1. Learning PHP Frameworks: CI 4 and Laravel
+2. Learning JavaScript Frameworks: React.js
