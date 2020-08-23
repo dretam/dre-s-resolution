@@ -1,0 +1,4 @@
+Dre's Side Plans
+
+1. Learning PHP Frameworks
+2. Learning JavaScript Frameworks
